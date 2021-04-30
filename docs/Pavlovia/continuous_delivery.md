@@ -1,0 +1,3 @@
+#Author: Nick
+
+Continuous delivery is a method in software engineering where updates to a codebase can be automatically deployed/delivered to visitors of the website. As it's part of the "devops movement" to make easy changes to code you get somewhat shifty definitions about it being as much a mindset as a method. For our uses it primarily means that pushing to the gitlab repository is sufficient to generate your change and there are no additional build or configuration workflows required after setting up the initial code (unless something goes wrong and you have to cross your fingers that the forum can fix it).
