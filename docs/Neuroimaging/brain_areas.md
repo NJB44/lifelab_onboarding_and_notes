@@ -11,6 +11,7 @@ For some broad generally reliable divisions of the brain these categories and te
 - [[cortex]]
 - [[basal_ganglia]]
 - [[subcortex]]
+- [[midbrain]]
 - [[brainstem]]
 - [[cerebrum]]
 - [[cerebellum]]
@@ -26,6 +27,7 @@ For some broad generally reliable divisions of the brain these categories and te
 [cortex]: cortex "cortex"
 [basal_ganglia]: basal_ganglia "basal_ganglia"
 [subcortex]: subcortex "subcortex"
+[midbrain]: midbrain "midbrain"
 [brainstem]: brainstem "brainstem"
 [cerebrum]: cerebrum "cerebrum"
 [cerebellum]: cerebellum "cerebellum"

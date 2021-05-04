@@ -1,0 +1,3 @@
+#Author: Nick
+
+This is an algorithm that uses deep learning wizardry to "guess your age" based on your brain. The degree to which the brainage estimate differs from your actual age may tell one interesting information for research questions. The methods are effectively to train a big neural network to predict age from the brainscan so unfortunately the neural features which determine that age are hard to pinpoint or analyze. 
